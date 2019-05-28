@@ -1,2 +1,2 @@
 # test
-just used for testing git operations
+used for testing git operations
